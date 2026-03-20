@@ -1,5 +1,4 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-<h3>AIM:</h3>
 <h3>Vignesh M</h3>
 <h3>212223040235</h3>
 <h3>EX. NO 3</h3>
